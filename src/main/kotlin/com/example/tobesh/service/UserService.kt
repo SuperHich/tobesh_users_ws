@@ -1,7 +1,7 @@
 package com.example.tobesh.service
 
 import User
-import com.example.tobesh.UserRepository
+import com.example.tobesh.repository.UserRepository
 import org.springframework.stereotype.Service
 
 @Service
